@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "thresholds",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "runway": "18R/36L", "orientation": "18R" }, "geometry": { "type": "Point", "coordinates": [ -3.574838439918973, 40.530218500159428 ] } },
+{ "type": "Feature", "properties": { "runway": "14R/32L", "orientation": "32L" }, "geometry": { "type": "Point", "coordinates": [ -3.547191670444303, 40.45647777995444 ] } },
+{ "type": "Feature", "properties": { "runway": "14L/32R", "orientation": "32R" }, "geometry": { "type": "Point", "coordinates": [ -3.532580559771673, 40.470008330215407 ] } },
+{ "type": "Feature", "properties": { "runway": "18L/36R", "orientation": "18L" }, "geometry": { "type": "Point", "coordinates": [ -3.55938056019154, 40.532622220224376 ] } }
+]
+}

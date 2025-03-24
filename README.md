@@ -5,6 +5,8 @@ Initial presentation: https://docs.google.com/presentation/d/1Lr_10KhRx7dkQijB2X
 
 Live airport visualization: https://lemd.databeacon.io/
 
+Email to submit your answers:  datahackathon@innaxis.aero
+
 ## Goal of the hackaton
 
 * You  will be given a series of scenarios, in which we have selected a specific aircraft that is about to land.

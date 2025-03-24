@@ -1,5 +1,10 @@
 # Engage Hackaton
 
+## Extra resources
+Initial presentation: https://docs.google.com/presentation/d/1Lr_10KhRx7dkQijB2XKxzLczSie2HN8c/
+
+Live airport visualization: https://lemd.databeacon.io/
+
 ## Goal of the hackaton
 
 * You  will be given a series of scenarios, in which we have selected a specific aircraft that is about to land.
